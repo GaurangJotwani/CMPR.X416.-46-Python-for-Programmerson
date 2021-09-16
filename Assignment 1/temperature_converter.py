@@ -1,5 +1,5 @@
 # CMPR.X416 Python For Programmers
-# Module 2: Temperature Conversion Programming Assignment
+# Module 2: Temperature Conversion Programming Assignments
 
 print('This is a temperature converter.')
 print('It converts from/to Fahrenheit, Celsius, and Kelvin units.\n')
